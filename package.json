@@ -1,0 +1,21 @@
+{
+  "name": "taus",
+  "version": "1.0.0",
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
+  "description": "fast check host http status",
+  "homepage": "http://coderaiser.github.io/taus",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/taus.git"
+  },
+  "scripts": {
+  },
+  "subdomain": "taus",
+  "dependencies": {
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "main": "lib/taus.js"
+}
